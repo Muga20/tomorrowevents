@@ -1,0 +1,169 @@
+.form-control{
+    width: 250px;
+}
+.form-control{
+    border: solid;
+}
+.form-label{
+    font-size: 23px;
+    color: black;
+}
+.body-index{
+    width: 100%;
+    height: 100vh;
+    background: url("../img/nature.jpg") top center;
+    background-size: cover;
+}
+.tomorrow-h1{
+    font-size: 45px;
+}
+.container-h1 {
+padding-top: 60px;
+padding-left: 430px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+color:rgb(17,15,11);
+
+}
+.form-text{
+    color: rgb(17,15,11);
+    font-weight: bold;
+}
+
+/* home css */
+
+/* .navbar-brand{
+    padding-left: 530px;
+    
+} */
+.nav-sec{
+    background: black;
+    float: left;
+    width: 200px;
+    height: 788px;
+}
+.navigation{
+    padding-top: 85px;
+}
+.menu{
+ padding-left: 150px;
+ padding-top: 30px;
+
+}
+.flex{
+    display: inline-flex;
+    list-style-type: none;
+    
+}
+.list{
+    display: flex;
+}
+.events-2{
+    font-size: 27px;
+}
+.text-1{
+    color: white;
+}
+.break{
+    background-color: rgb(8, 7, 7);
+}
+.card{
+    width: 450px;
+}
+.div-element{
+    width: 100%;
+    background: url("../img/timer.png") top center;
+    background-size: cover;
+}
+.card-group{
+    padding: 9px;
+}
+
+.cards{
+    border-radius: 3px;  
+}
+.list{
+    list-style-type: none;
+}
+.row-1{
+    display: flex;
+}
+.spacing{
+    padding-left: 12px;
+}
+.spacing {
+    display: flex;
+    flex-wrap: wrap;
+   
+  }
+  @media(max-width: 850px){
+      .spacing{
+        flex-direction: row;
+      }
+  }
+  
+ 
+   @media (max-width: 800px) {
+    .spacing {
+      flex-direction: column;
+    }
+  }
+  .card{
+      width: 400px;
+  }
+  .container-fluid{
+    width: 100%;
+    background: url("../img/commingevents/comming-events-0.jpg") top center;
+    background-size: cover; 
+ 
+   } 
+ .deco{
+    list-style-type: none;
+    display: flex;
+   
+ }
+ .names{
+  display: flex;
+ }
+ .country {
+     width: 500px;
+ }
+ .count{
+     display: flex;
+ }
+ .country{
+     padding-left: 100px;
+     justify-content: space-between;
+ }
+ .pay{
+    padding-left: 100px;  
+ }
+  
+ .body-3{
+    width: 100%;
+    height: 100vh;
+     background: url("../img/payment/pay\ \(2\).jpg") top center;
+     background-size: cover; 
+    
+     border-radius: 9px; 
+ }
+ .btnn{
+     padding-left: 150;
+ }
+ .round{
+    border: solid rgb(231, 185, 200) 5px;  
+ }
+ .formm{
+    border: solid rgb(243, 181, 202) 5px;
+   width: 450px;
+   border-radius: 5px;
+ } 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
